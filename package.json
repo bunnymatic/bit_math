@@ -1,0 +1,15 @@
+{
+  "name": "shagorex",
+  "version": "1.0.0",
+  "description": "SharesPost shared component library",
+  "main": "index.js",
+  "author": "Mr Rogers <jon@carbonfive.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}

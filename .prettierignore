@@ -1,0 +1,9 @@
+app/javascript/sharespost/js/vendor
+backstop/
+backstop_data/
+coverage/
+package-lock.json
+package.json
+public
+spec/javascripts/compiled
+vendor/bundle
